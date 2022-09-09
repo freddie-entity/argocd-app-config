@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://gitlab.com/nanuchi/argocd-app-config.git #3poft20Lvj
+    repoURL: https://github.com/freddie-entity/argocd-app-config.git #3poft20Lvj
     targetRevision: HEAD
     path: nodeapp
   destination: 
