@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/freddie-entity/argocd-app-config.git
+    repoURL: https://github.com/freddie-entity/argocd-app-config.git #wZmmDvRyX1
     targetRevision: HEAD
     path: nodeapp
   destination: 
